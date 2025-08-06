@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Show da Xuxa</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Show da Xuxa</h1>
+    <p>Celebrando a Rainha dos Baixinhos</p>
+  </header>
+
+  <section class="sobre">
+    <h2>Quem é a Xuxa?</h2>
+    <img src="https://i.pinimg.com/1200x/ad/a2/ac/ada2ac0f7d04891381ff03c13a8a454d.jpg">
+    <p>Maria da Graça Xuxa Meneghel é apresentadora, cantora, atriz e empresária brasileira, chamada de “Rainha dos Baixinhos” :contentReference[oaicite:1]{index=1}.</p>
+  </section>
+
+  <section class="programa">
+    <h2>Sobre o programa Xou da Xuxa</h2>
+    <img src="https://i.pinimg.com/736x/ea/df/83/eadf83862af498256a1ff97ae9087093.jpg" Logotipo Xou da Xuxa"/>
+    <p>O Show da Xuxa foi exibido de junho de 1986 até dezembro de 1992, com cerca de 2000 edições. É considerado o maior sucesso infantil da TV brasileira :contentReference[oaicite:2]{index=2}.</p>
+  </section>
+
+  <footer>
+    <p>Feito com 💖 em homenagem à Xuxa</p>
+  </footer>
+</body>
+</html>
